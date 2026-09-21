@@ -12,7 +12,7 @@ My homework and notes for the [DataTalks.Club Machine Learning Zoomcamp 2026](ht
 
 | Module | Work |
 | --- | --- |
-| 01 — Introduction to machine learning | [01-intro](01-intro/) |
+| 01 - Introduction to machine learning | [01-intro](01-intro/) |
 
 Each module will contain the code or notebook used to answer its homework questions, plus instructions to reproduce the results. Homework answers are submitted on the course platform; this repository holds the supporting work.
 
